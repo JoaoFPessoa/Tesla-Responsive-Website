@@ -3,6 +3,7 @@ Este é um website em que estou montando para colocar em prática e mostrar meus
 Decidi fazer um clone totalmente responsivo do site da Tesla
 
 Você pode checar como ele está neste link:
+https://0g76f.csb.app/
 
 
 (02/09) -
