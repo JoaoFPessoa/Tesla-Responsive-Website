@@ -40,11 +40,19 @@
 	color: white
 }
 
-.border-radius{
+.border-radius-desktop{
 	border-style: solid;
 	color: white;
 	border-radius: 70px;
 	width: 15%;
+
+}
+
+.border-radius-mobile{
+	border-style: solid;
+	color: white;
+	border-radius: 70px;
+	padding: auto
 
 }
 
