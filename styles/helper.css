@@ -47,6 +47,12 @@
 	width: 15%;
 
 }
+.border-radius-mobile{
+	border-style: solid;
+	color: white;
+	border-radius: 70px;
+
+}
 
 .border-radius-mobile{
 	border-style: solid;
